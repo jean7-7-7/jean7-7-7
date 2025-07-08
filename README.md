@@ -1,7 +1,8 @@
 <h1 align="center"> Data Scientist | Building Better Models & a Better Me</h1>
-<h3 align="center">With a strong foundation in statistical analysis, machine learning, and data visualization. Passionate about transforming raw data into actionable insights and solving real-world problems. 🔍 Problem-solving enthusiast: I thrive on challenges and believe every obstacle is an opportunity to innovate. Whether it's optimizing a model, cleaning messy data, or finding the most efficient solution, I’m driven by the pursuit of the best possible outcome.</h3>
+<h3 align="center">With a strong foundation in statistical analysis, machine learning, and data visualization. Passionate about transforming raw data into actionable insights and solving real-world problems. 🔍 Problem-solving enthusiast: I thrive on challenges and believe every obstacle is an opportunity to innovate. Whether it's optimizing a model, cleaning messy data, or finding the most efficient solution, I'm driven by the pursuit of the best possible outcome.</h3>
 
-- Data Clean & Viz: Python [Google Apps](https://github.com/jean7-7-7/Proyectos/blob/main/Google%20apps.py)
+- **🔧 Data Clean & Viz: Python** - [Google Apps Analysis](https://github.com/jean7-7-7/Proyectos/blob/main/Google%20apps.py)  
+  *Cleaned and analyzed Google Play Store datasets using Pandas, identifying trends and visualizing key metrics. Focused on data quality improvement and actionable business insights through Matplotlib visualizations.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
