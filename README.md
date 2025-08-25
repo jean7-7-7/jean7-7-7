@@ -8,7 +8,7 @@
 
 ## 📂 Featured Projects
 
-<div align="center">
+<div align="left">
 
 ### 🔧 Data Cleaning & Visualization
 [![Google Apps Analysis](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/jean7-7-7/Proyectos/blob/main/Google%20apps.py)
@@ -19,7 +19,7 @@
 *Predicting smartphone prices with machine learning (Linear Regression & Random Forest) by analyzing key features like battery, RAM, cameras, and screen specs. Focused on model optimization, accuracy, and actionable insights for pricing strategies.*
 
 ### 🐍 Pokedex: AI-Powered Pokemon Recognition
-[![Pokedex Project](https://img.shields.io/badge/View_Project-EF5350?style=for-the-badge&logo=pokemon&logoColor=white)](https://github.com/jean7-7-7/Proyectos/blob/main/pokedex.py)
+[![Pokedex Project](https://img.shields.io/badge/View_Project-EF5350?style=for-the-badge&logo=pokemon&logoColor=white)](https://github.com/jean7-7-7/Proyectos/blob/main/Pokedex.ipynb)
 *Developed an interactive Pokedex using Hugging Face's image classification model to identify Pokemon from images. Integrated with PokeAPI to fetch and display detailed Pokemon characteristics including stats, abilities, and types, showcasing practical application of computer vision and API integration.*
 
 </div>
@@ -67,8 +67,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/jean-morales-a3b759352" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jean-m-a3b759352" height="30"/>
-  </a>
-  <a href="https://github.com/jean7-7-7" target="blank">
-    <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
   </a>
 </p>
