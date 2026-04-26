@@ -1,5 +1,3 @@
-<!-- README.md para GitHub -->
-
 <h1 align="center">🚀 Data Scientist | Building Better Models & a Better Me</h1>
 
 <p align="center">
@@ -14,6 +12,11 @@
 ---
 
 ## 📂 Featured Projects
+
+### 🏢 Office Location Analysis: Google vs Microsoft
+[![View Project](https://img.shields.io/badge/View_Project-6C5CE7?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/jean7-7-7/Proyectos/tree/main/Headquarters)
+
+*An interactive Power BI dashboard that evaluates and compares the surrounding urban environment of Google and Microsoft offices worldwide. The project extracts Points of Interest (POIs) from OpenStreetMap using Python, applies a distance‑weighting algorithm, and visualizes office accessibility scores across six key categories: transport, education, health, leisure, dining, and commerce.*
 
 ### 🔧 Data Cleaning & Visualization
 [![View Project](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/jean7-7-7/Proyectos/blob/main/Google%20apps.py)
@@ -73,5 +76,5 @@
 </p>
 
 <p align="center">
-   Jean Morales — Data Science Portfolio
+  Jean Morales — Data Science Portfolio
 </p>
