@@ -18,6 +18,11 @@
 
 *An interactive Power BI dashboard that evaluates and compares the surrounding urban environment of Google and Microsoft offices worldwide. The project extracts Points of Interest (POIs) from OpenStreetMap using Python, applies a distance‑weighting algorithm, and visualizes office accessibility scores across six key categories: transport, education, health, leisure, dining, and commerce.*
 
+### ⚙️ Centrifugal Pump Curve Analyzer
+[![View Project](https://img.shields.io/badge/View_Project-20B2AA?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jean7-7-7/Proyectos/tree/main/Water%20Curve)
+
+*A desktop application for modeling, visualizing, and correcting centrifugal pump curves. Implements second‑order polynomial fitting to generate continuous curves from user‑entered points, calculates head, BHP, and efficiency, and identifies the Best Efficiency Point (BEP). Features include Affinity Laws scaling for diameter changes and viscosity correction following the HI 9.6.7 standard, with interactive Plotly graphs and Excel export capabilities.*
+
 ### 🔧 Data Cleaning & Visualization
 [![View Project](https://img.shields.io/badge/View_Project-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](https://github.com/jean7-7-7/Proyectos/blob/main/Google%20apps.py)
 
